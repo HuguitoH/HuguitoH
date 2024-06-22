@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Hi There! I'm Hugo, I'm 16 years old and I want to be a Software Engineer.<br>🔭 I am currently studying programming at High School and at Kodland!<br>💼 I am looking to collaborate on new projects and enrich myself with knowledge.<br>📋 I am currently learning web designer!<br>⚡ Fun fact, I am certified in python by Kodland with +A and the best grade of the course. (Soon I will attach the certificate on LinkedIn)
+🎓Hi There! I'm Hugo, I'm 17 years old and I want to be a Software Engineer.<br>🔭 I am currently studying programming at High School and at Kodland!<br>💼 I am looking to collaborate on new projects and enrich myself with knowledge.<br>📋 I am currently learning web designer!<br>⚡ Fun fact, I am certified in python by Kodland with +A and the best grade of the course. (Soon I will attach the certificate on LinkedIn)
 
 
 ## 🌐 Socials:
