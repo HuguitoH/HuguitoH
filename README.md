@@ -62,8 +62,8 @@ drwxr-xr-x  languages/
 | ![Python](https://img.shields.io/badge/Python-2C2C2C?style=for-the-badge&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-2C2C2C?style=for-the-badge&logo=flutter&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-2C2C2C?style=for-the-badge&logo=firebase&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-2C2C2C?style=for-the-badge&logo=arch-linux&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-2C2C2C?style=for-the-badge&logo=git&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-2C2C2C?style=for-the-badge&logo=neovim&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-2C2C2C?style=for-the-badge&logo=html5&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-2C2C2C?style=for-the-badge&logo=visual-studio-code&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/CSS3-2C2C2C?style=for-the-badge&logo=css3&logoColor=white) | | |
+| ![HTML5](https://img.shields.io/badge/HTML5-2C2C2C?style=for-the-badge&logo=html5&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-2C2C2C?style=for-the-badge&logo=LeetCode&logoColor=white) | |
+| ![CSS3](https://img.shields.io/badge/CSS3-2C2C2C?style=for-the-badge&logo=css&logoColor=white) | | |
 | ![Bash](https://img.shields.io/badge/Bash-2C2C2C?style=for-the-badge&logo=gnu-bash&logoColor=white) | | |
 | ![Dart](https://img.shields.io/badge/Dart-2C2C2C?style=for-the-badge&logo=dart&logoColor=white) | | |
 
@@ -77,6 +77,8 @@ drwxr-xr-x  languages/
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F75C7E?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![App Dev](https://img.shields.io/badge/App_Development-F75C7E?style=for-the-badge&logo=flutter&logoColor=white)
+
+![IA](https://img.shields.io/badge/Deep_Learning-F75C7E?style=for-the-badge&logo=NVIDIA&logoColor=white)
 
 </td>
 </tr>
@@ -136,18 +138,18 @@ drwxr-xr-x  languages/
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
 ```
 ┌──(hugo㉿arch)-[~]
 └─$ cat /etc/motto
 "Talk is cheap. Show me the code." - Linus Torvalds
 ```
+<p align="center">
+  <img src="https://hits.sh/github.com/HuguitoH.svg?style=for-the-badge&label=Profile%20Views&color=2C2C2C&labelColor=0d1117" alt="Profile Views Badge">
+  <img src="https://img.shields.io/badge/BYE-👋-2C2C2C?style=for-the-badge&labelColor=0d1117" alt="Bye Badge">
+</p>
 
-![Profile Views](https://hits.sh/github.com/HuguitoH.svg?style=for-the-badge&label=Profile%20Views&color=2C2C2C&labelColor=0d1117)
+---
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-11-06`
 
-<div align= "center">
-  𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍: 2025-11-06
-</div>
 
 </div>
