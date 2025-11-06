@@ -109,7 +109,7 @@ drwxr-xr-x  languages/
 <td width="50%" valign="top">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuguitoH&theme=dark&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuguitoH&theme=dark&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
 
 </td>
 </tr>
