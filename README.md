@@ -24,8 +24,8 @@ class MySelf:
     def get_stack(self):
         return {
             "languages": ["Python", "Java", "Bash", "Flutter", "JavaScript", "HTML/CSS"],
-            "focus": ["Machine Learning", "Cybersecurity", "App Development"],
-            "security_tools": ["Cortex XSIAM", "MISP", "Incident Response Automatizations"],
+            "focus": ["Machine Learning", "Cybersecurity", "App Development", "Deep Learning"],
+            "security_tools": ["Cortex XSIAM", "MISP", "Incident response automations"],
             "daily_drivers": ["Terminal", "Neovim", "Git"]
         }
 
