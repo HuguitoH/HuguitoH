@@ -146,4 +146,8 @@ drwxr-xr-x  languages/
 
 ![Profile Views](https://hits.sh/github.com/HuguitoH.svg?style=for-the-badge&label=Profile%20Views&color=2C2C2C&labelColor=0d1117)
 
+<div align= "center">
+  𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍: 2025-11-06
+</div>
+
 </div>
