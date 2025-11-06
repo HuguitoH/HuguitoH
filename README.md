@@ -18,7 +18,7 @@ class MySelf:
         self.age = 18
         self.location = "Madrid, Spain"
         self.role = "Software Engineering Student"
-        self.current_work = "SIEM Engineer"
+        self.current_work = "SIEM/SOAR Engineer"
         self.distro = "Arch Linux"  # btw
         
     def get_stack(self):
