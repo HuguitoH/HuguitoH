@@ -15,17 +15,17 @@
 class MySelf:
     def __init__(self):
         self.name = "Hugo Hernández Moreno"
-        self.age = 18
+        self.age = 19
         self.location = "Madrid, Spain"
-        self.role = "Software Engineering Student"
-        self.current_work = "SIEM/SOAR Engineer"
+        self.role = "SoftwareEngineering Student"
+        self.current_interest = "AI Innovation & Backend Engineering"
         self.distro = "Arch Linux"  # btw
         
     def get_stack(self):
         return {
-            "languages": ["Python", "Java", "Bash", "Flutter", "JavaScript", "HTML/CSS"],
-            "focus": ["Machine Learning", "Cybersecurity", "App Development", "Deep Learning"],
-            "security_tools": ["Cortex XSIAM", "MISP", "Incident response automations"],
+            "languages": ["Python", "Java", "Bash", "SQL", "JavaScript"],
+            "focus": ["Machine Learning", "Backend Systems", "LLMs / AI Systems", "Deep Learning"],
+            "backend_stack": ["FastAPI", "Redis", "Docker", "Prometheus", "Grafana"],
             "daily_drivers": ["Terminal", "Neovim", "Git"]
         }
 
@@ -40,9 +40,9 @@ drwxr-xr-x  languages/
   -rwxr-xr-x  python        █████████████████░ 95%
   -rwxr-xr-x  java          ████████████████░░ 80%
   -rwxr-xr-x  bash          ████████████████░░ 80%
-  -rwxr-xr-x  flutter       ████████████░░░░░░ 65%
-  -rwxr-xr-x  javascript    ██████████████░░░░ 70%
-  -rwxr-xr-x  html_css      ████████████████░░ 80%
+  -rwxr-xr-x  docker        ██████████████░░░░ 70%
+  -rwxr-xr-x  fastAPI       ██████████████░░░░ 70%
+  -rwxr-xr-x  Redis         ██████████████░░░░ 70%
 
 ┌──(hugo㉿arch)-[~]
 └─$ echo "Thanks for visiting! Feel free to explore my repos 🚀"
@@ -59,26 +59,22 @@ drwxr-xr-x  languages/
 
 | **Languages** | **Tools & Frameworks** | **Environment** |
 |:-------------:|:----------------------:|:---------------:|
-| ![Python](https://img.shields.io/badge/Python-2C2C2C?style=for-the-badge&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-2C2C2C?style=for-the-badge&logo=flutter&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-2C2C2C?style=for-the-badge&logo=firebase&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-2C2C2C?style=for-the-badge&logo=arch-linux&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-2C2C2C?style=for-the-badge&logo=git&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-2C2C2C?style=for-the-badge&logo=neovim&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-2C2C2C?style=for-the-badge&logo=html5&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-2C2C2C?style=for-the-badge&logo=LeetCode&logoColor=white) | |
-| ![CSS3](https://img.shields.io/badge/CSS3-2C2C2C?style=for-the-badge&logo=css&logoColor=white) | | |
-| ![Bash](https://img.shields.io/badge/Bash-2C2C2C?style=for-the-badge&logo=gnu-bash&logoColor=white) | | |
-| ![Dart](https://img.shields.io/badge/Dart-2C2C2C?style=for-the-badge&logo=dart&logoColor=white) | | |
+| ![Python](https://img.shields.io/badge/Python-2C2C2C?style=for-the-badge&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-2C2C2C?style=for-the-badge&logo=fastapi&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2C2C2C?style=for-the-badge&logo=docker&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-2C2C2C?style=for-the-badge&logo=arch-linux&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-2C2C2C?style=for-the-badge&logo=redis&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-2C2C2C?style=for-the-badge&logo=neovim&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-2C2C2C?style=for-the-badge&logo=postgresql&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-2C2C2C?style=for-the-badge&logo=prometheus&logoColor=white) | ![Git](https://img.shields.io/badge/Git-2C2C2C?style=for-the-badge&logo=git&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/Bash-2C2C2C?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-2C2C2C?style=for-the-badge&logo=grafana&logoColor=white) | |
+| | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2C2C2C?style=for-the-badge&logo=springboot&logoColor=white) | |
 
 </td>
 <td width="50%" valign="middle" align="center">
 
 ### **Focus Areas**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-F75C7E?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-
+![Backend Systems](https://img.shields.io/badge/Backend_Systems-F75C7E?style=for-the-badge&logo=serverfault&logoColor=white)
+![LLMs & AI Systems](https://img.shields.io/badge/LLMs_&_AI_Systems-F75C7E?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F75C7E?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![App Dev](https://img.shields.io/badge/App_Development-F75C7E?style=for-the-badge&logo=flutter&logoColor=white)
-
-![IA](https://img.shields.io/badge/Deep_Learning-F75C7E?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-F75C7E?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </td>
 </tr>
@@ -149,7 +145,7 @@ drwxr-xr-x  languages/
 </p>
 
 ---
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-11-06`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2026-03-13`
 
 
 </div>
